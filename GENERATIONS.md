@@ -1,11 +1,9 @@
 # Arcovada Code-Names
 
-GC = Graphic Computation
+ARX = Advanced Runtime eXecution
 <br>
 
-1. Volta | GC 1000
-
-2. Faraday | GC 2000
-
-3. Axwell | GC 3000
+1. Arcovada ARX 5  (Delta)
+2. Arcovada ARX 7  (Zeta)
+3. Arcovada ARX 9  (Theta)
 

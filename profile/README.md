@@ -1,17 +1,15 @@
- <div align="center">
+<div align="center">
 
-<img width="500px" src="arcovada.jpeg">
+<img width="500" src="arcovada.jpeg" alt="Arcovada">
 
 # Arcovada
 
-**Building a new generation of Graphics Processing Units**
+**Building a new generation of Processing Units**
 
 </div>
 
 <br>
 
-An organization dedicated to designing and developing graphics processing units (GPUs) built around performance, innovation, and hardware freedom. Our goal is to create powerful, accessible, and customizable graphics hardware that puts control back into the hands of its owners.
+An organization dedicated to designing and developing open calculus processing units (OCPUs) built around performance, innovation, and hardware freedom. Our goal is to create powerful, accessible, and customizable hardware that puts control back into the hands of its owners.
 
-We believe GPUs should be built to unleash their full potential, without unnecessary restrictions or artificial limitations.
-
-**If you build the hardware, you should own its future.**
+We believe OCPUs should be built to unleash their full potential, without unnecessary restrictions or artificial limitations.
